@@ -1,0 +1,91 @@
+{
+  "slug": "contractor-faqs",
+  "title": "Contractor FAQs | Genstone Construction",
+  "metaDescription": "Answers for contractors on joining Genstone's network: licensing, insurance, applications, project types, bidding, subcontractors, permits, payments and more.",
+  "h1": "Contractor FAQs",
+  "eyebrow": "For contractor partners",
+  "lede": "Answers to common questions about joining and working in the Genstone Contractor Network, from requirements and applications to scopes, permits, documentation and payments. The first ten cover the basics of the network; the rest cover what day-to-day work on a Genstone project looks like. If your question isn't covered, use the contact form and choose the contractor option.",
+  "sections": [],
+  "faqs": [
+    {
+      "q": "How can I become a contractor partner?",
+      "a": "Start by reviewing our Pre-Application Checklist to make sure you have the required licensing, insurance, business information and supporting documentation. Once you're ready, complete our online Contractor Application to be considered for the Genstone Contractor Network."
+    },
+    {
+      "q": "What insurance is required to join the network?",
+      "a": "Contractors must meet Genstone's insurance requirements before being approved for the network. Review the Pre-Application Checklist for current coverage and documentation requirements."
+    },
+    {
+      "q": "What licensing is required?",
+      "a": "Contractors must maintain all licenses required by the state and/or local jurisdictions where they perform work. Licensing requirements may vary by location and project type."
+    },
+    {
+      "q": "What types of projects may be available?",
+      "a": "Project opportunities range from kitchen and bathroom renovations to rental turns, larger-scale rehabs, additions and full-property renovations. Available projects vary by market, client needs and project volume."
+    },
+    {
+      "q": "Can I choose which projects I want to bid on?",
+      "a": "In many cases, yes. Contractors may choose whether to submit a bid on project opportunities presented to them. Project availability and selection vary based on location, scope, schedule and client requirements."
+    },
+    {
+      "q": "Who selects and manages subcontractors?",
+      "a": "Contractor partners are responsible for selecting and managing the subcontractors they use on assigned projects, subject to applicable Genstone project and compliance requirements."
+    },
+    {
+      "q": "How are permits and inspections handled?",
+      "a": "Genstone coordinates required permits and inspections with contractor partners and the applicable building departments as part of the project-management process. Specific responsibilities may vary by project and jurisdiction."
+    },
+    {
+      "q": "Who handles client communication and project concerns?",
+      "a": "Your Genstone project-management contact coordinates client communication and works with the contractor team to address project questions or concerns as they arise."
+    },
+    {
+      "q": "How are contractor payments handled?",
+      "a": "Genstone manages client billing and contractor payments according to the approved project scope, required documentation and the applicable draw or payment schedule."
+    },
+    {
+      "q": "Does submitting an application mean I'll receive project assignments?",
+      "a": "No. Submitting an application, or being approved for the Genstone Contractor Network, does not commit Genstone to project assignments or a specific volume of work. Opportunities vary based on market demand, project requirements, location and contractor qualifications."
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "Five: a general contractor license, a certificate of insurance, a workers' compensation certificate or a workers' comp waiver, a completed current W-9, and a mutual non-disclosure agreement. The Pre-Application Checklist explains each one and how to get it ready to upload."
+    },
+    {
+      "q": "Who are the clients on Genstone projects?",
+      "a": "Individual real estate investors, mortgage servicers, REITs, investment funds, banks with REO properties and other mortgage lenders. Genstone is also a preferred contractor for Government-Sponsored Enterprises. Many of these clients own several properties and expect consistent documentation on each one."
+    },
+    {
+      "q": "Do I deal directly with the property owner?",
+      "a": "Client communication runs through your Genstone project-management contact. If an owner or tenant asks you for changes or extra work on site, refer the request to your project manager so it can be reviewed, priced and approved through the change process before you perform it."
+    },
+    {
+      "q": "What happens if I find a hidden condition during demolition?",
+      "a": "Stop work on that item, photograph the condition before anything is repaired or covered, and notify your project manager. Genstone reviews the impact with the client and documents any approved change before additional work proceeds, which is also how you get paid for the added work."
+    },
+    {
+      "q": "What documentation will I need to provide during a project?",
+      "a": "Expect to provide photos of conditions before work starts, at significant stages and at completion, tied to the scope items. Inspection results, permit records where applicable, and lien waivers for paid work are also part of the file. Clear documentation is what supports draw requests."
+    },
+    {
+      "q": "Do I need to provide lien waivers?",
+      "a": "Yes. Lien waivers are part of the payment process. You provide waivers for work you've been paid for, and you're responsible for making sure your subcontractors and suppliers are paid. Current partners can find state-specific lien waiver forms on the Resources for Contractors page."
+    },
+    {
+      "q": "Do you need contractors for REO and vacant properties?",
+      "a": "Yes. REO and bank-owned work is a core part of Genstone's business. Vacant properties often involve cleanouts, securing, freeze or water damage, mold and code compliance items, along with documentation standards set by the institutional client."
+    },
+    {
+      "q": "Are there FHA 203(k) projects?",
+      "a": "Genstone is an FHA 203(k) Certified Contractor, so some projects are financed through the 203(k) program. Those jobs follow the program's bid, documentation and draw requirements, and your project manager will explain what's needed on any 203(k) project you take on."
+    },
+    {
+      "q": "Can specialty trades or single-trade contractors apply?",
+      "a": "The application asks for a general contractor license, and partners are responsible for managing their own subcontractors, including licensed electrical, plumbing and HVAC trades. If you work in a specialty trade and have questions about fit, use the contact form and choose the contractor option."
+    },
+    {
+      "q": "How long does the review take after I apply?",
+      "a": "It depends on how complete your application is and on demand in your market. Uploading all five documents, current and legible, with the names matching across your license, insurance and W-9, is the most reliable way to avoid delays."
+    }
+  ]
+}

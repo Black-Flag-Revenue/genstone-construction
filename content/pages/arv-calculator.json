@@ -1,0 +1,42 @@
+{
+  "slug": "arv-calculator",
+  "title": "Free ARV Calculator for Real Estate Investors | Genstone",
+  "metaDescription": "Estimate after repair value, your maximum bid, gross profit and return. Learn how ARV works, how to pick comps, and where the seventy percent rule fails.",
+  "h1": "After Repair Value (ARV) Calculator",
+  "eyebrow": "Free investor tool",
+  "lede": "Estimate what a property will be worth once the work is done, the highest price you should pay for it, and what you stand to make. Below the calculator, you'll find how ARV is estimated, how the seventy percent rule works, how to choose comparable sales, and where the quick math stops being reliable.",
+  "sections": [
+    {
+      "h2": "What ARV is and why it matters",
+      "body": "ARV, or after repair value, is the projected market value of a property after renovations. Investors use it to estimate potential profit, decide how much to invest, and plan renovation budgets. Understanding ARV helps you make informed decisions, avoid overpaying, and pursue deals with confidence.\n\nARV sits at the top of almost every investor calculation. On a flip, it's the sale price you're working back from. On a BRRRR project, it's close to the value the refinance appraisal needs to support. Lenders use it to size rehab loans. If the ARV is too optimistic, every number below it is wrong too: the offer is too high, the renovation budget too generous, and the profit imaginary.\n\nARV is an estimate of what the market will pay, not a measure of what you spent. Spending more on a renovation doesn't raise ARV past what comparable renovated houses in the neighborhood are selling for."
+    },
+    {
+      "h2": "How to use the calculator",
+      "body": "The calculator works in four steps.\n\n- After repair value. Choose how you want to estimate the finished value. You can start from the as-is market value before any work and add the appraised lift the renovation should create (the lift is the added value, not what you spend). You can enter the average sale price of recently sold, renovated comps. Or you can use price per square foot and the total livable square footage after the remodel.\n- Repair budget. Enter what the rehab will actually cost you, including materials, labor and permits, everything you pay out. If you're estimating by square foot, use your contractor's blended rate.\n- Your offer rule. Set the share of ARV you're willing to spend, all-in. The default is the classic seventy percent rule. A lower share is more conservative.\n- Purchase price. Used to work out your return. It defaults to the maximum bid.\n\nThe results show the after repair value (the estimated market value once renovations are complete), the maximum bid price (seventy percent of ARV, less your repair budget), gross profit and return on investment."
+    },
+    {
+      "h2": "The seventy percent rule",
+      "body": "The seventy percent rule is a quick screening test for fix and flip deals: don't pay more than seventy percent of the after repair value, minus the repair budget. The remaining share of ARV is meant to cover the costs the simple formula leaves out (closing costs on the purchase and sale, agent commissions, loan costs and interest, insurance, utilities and taxes while you hold the property) and still leave a profit.\n\nThe rule is popular because it's fast. You can run it from a listing and a rough rehab number in a minute and throw out deals that are nowhere close. That's what it's for: screening, not underwriting.\n\nYou can adjust the share in the calculator. A lower number builds in more cushion, which makes sense on larger renovations, older houses where hidden conditions are likely, slower markets or longer projects. Some investors accept a higher share on smaller cosmetic jobs or in fast-moving areas where holding time is short. Either way, the rule is a starting point you adjust for the deal in front of you."
+    },
+    {
+      "h2": "Choosing comparable sales",
+      "body": "ARV is only as good as the comps behind it. A strong comp set for a renovated house usually shares these traits:\n\n- Recently sold, not listed or pending. Asking prices are opinions, and sold prices are what the market paid.\n- Renovated to a similar level. A comp with original cabinets doesn't tell you what a fully updated house sells for, and a high-end custom remodel may overstate it.\n- Close by, ideally in the same neighborhood or subdivision and on the same side of any major road, school boundary or rail line that splits the market.\n- Similar in size, bedroom and bathroom count, age, style and lot.\n- Similar in condition factors an appraiser will notice, such as garage, basement finish and layout.\n\nWhen you can't find perfect matches, adjust for the differences rather than ignoring them. A comp with an extra bathroom or a finished basement sold for more partly because of those features. Throwing out the highest and lowest outliers and leaning on the closest matches usually gives a more reliable number than averaging everything you find."
+    },
+    {
+      "h2": "The price per square foot method",
+      "body": "The square-foot method divides each comp's sale price by its finished living area, averages the result, and multiplies by the square footage of your property after the remodel. It's quick and useful when you have several similar comps and your house is close to them in size.\n\nIts weakness is that value doesn't scale evenly with size. Smaller houses often sell for more per square foot than larger ones in the same neighborhood, because every house carries a kitchen, baths and a lot regardless of size. Applying an average from much larger comps to a small house can understate its value, and the reverse can overstate it. Basements and additions add another wrinkle, since below-grade space and unpermitted additions are often valued differently from above-grade living area.\n\nUse the square-foot method as a cross-check against a direct comparison of the closest sales, and be careful with comps that differ much in size from your property."
+    },
+    {
+      "h2": "The value-add method",
+      "body": "The value-add method starts from the property's current as-is market value and adds the lift the renovation is expected to create. The key word is lift. A renovation's cost and the value it adds are different numbers. Some improvements, such as a dated kitchen brought up to neighborhood standard, may add as much as they cost or more. Others, like a new roof or a replaced sewer line, are necessary but often add less value than they cost, because buyers assume a house should have a working roof.\n\nThis method is most useful when the renovation is limited, the house already has good comps in its current condition, and you have a clear sense of what renovated houses nearby sell for. It's easy to overestimate the lift by assuming every dollar spent comes back, which is why the calculator asks for appraised lift rather than renovation cost."
+    },
+    {
+      "h2": "Limits of the quick math",
+      "body": "The calculator is for estimation only. Its results are based on the figures you enter and don't account for closing costs, financing and holding costs, agent commissions or taxes, each of which reduces your actual return. It is not an appraisal, a loan offer or investment advice.\n\nThe biggest source of error is usually the repair budget, not the formula. A rehab number taken from a walkthrough can miss foundation movement, failing drain lines, outdated wiring, roof decking that needs replacing, or moisture behind finished walls. The longer the renovation runs, the more holding costs add up, and the less the seventy percent rule's built-in cushion covers.\n\nThat's why a calculator is the first screen, not the last. Before you make an offer, talk to a Genstone advisor. The free Pre-Offer Rehab Review estimates repair costs for the actual property, helps refine the ARV, and checks whether the numbers support your offer before your capital is committed."
+    },
+    {
+      "h2": "Get a repair estimate before you offer",
+      "body": "Replace your rough repair number with one built from the property itself. Request a complimentary Pre-Offer Rehab Review by calling (312) 429-2637 or using the contact form. Many projects also receive more than one scope option at different finish levels tied to different ARV targets, so you can see how the numbers change with the plan."
+    }
+  ]
+}

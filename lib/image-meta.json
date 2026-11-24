@@ -1,0 +1,190 @@
+{
+ "project-tampa-kitchen": {
+  "w": 1500,
+  "h": 1208,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "project-barrington-bath": {
+  "w": 1500,
+  "h": 1208,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "project-woodridge-kitchen": {
+  "w": 1500,
+  "h": 1120,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "crew-kitchen-install": {
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   480,
+   960,
+   1600
+  ]
+ },
+ "drywall-finishing": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "interior-mid-renovation": {
+  "w": 1500,
+  "h": 1121,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "ranch-for-sale": {
+  "w": 1500,
+  "h": 1062,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "brick-house-for-sale": {
+  "w": 1500,
+  "h": 1030,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "house-for-sale-sign": {
+  "w": 2048,
+  "h": 1152,
+  "widths": [
+   480,
+   960,
+   1600
+  ]
+ },
+ "townhome-row": {
+  "w": 1000,
+  "h": 667,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "finish-selections": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "blueprint-review": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "plans-and-tablet": {
+  "w": 1254,
+  "h": 836,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "project-handshake": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "investor-meeting": {
+  "w": 2400,
+  "h": 1282,
+  "widths": [
+   480,
+   960,
+   1600
+  ]
+ },
+ "construction-plans": {
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   480,
+   960,
+   1600
+  ]
+ },
+ "investor-financials": {
+  "w": 2048,
+  "h": 1365,
+  "widths": [
+   480,
+   960,
+   1600
+  ]
+ },
+ "keys-handoff": {
+  "w": 1254,
+  "h": 836,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "genstone-companies": {
+  "w": 1492,
+  "h": 1018,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "field-visit": {
+  "w": 1500,
+  "h": 1126,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "calculator": {
+  "w": 1000,
+  "h": 666,
+  "widths": [
+   480,
+   960
+  ]
+ },
+ "badge-houzz-2025": {
+  "w": 240,
+  "h": 231,
+  "widths": []
+ },
+ "badge-fha-203k": {
+  "w": 240,
+  "h": 239,
+  "widths": []
+ },
+ "badge-inc-5000": {
+  "w": 240,
+  "h": 240,
+  "widths": []
+ }
+}

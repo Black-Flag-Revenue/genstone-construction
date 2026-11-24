@@ -1,0 +1,30 @@
+{
+  "slug": "investor-resources",
+  "title": "Real Estate Investor Resources | Genstone Construction",
+  "metaDescription": "Tools for real estate investors: an ARV calculator, investor financing through Genstone Financial, and answers on scopes, draws, permits and warranties.",
+  "h1": "Investor Resources",
+  "eyebrow": "Tools and information",
+  "lede": "Tools and information to help you evaluate opportunities and plan your next renovation. Use them to pressure-test a deal before you make an offer, understand how financing and the renovation fit together, and get straight answers to the questions investors ask most often about working with a renovation contractor on an investment property.",
+  "sections": [
+    {
+      "h2": "ARV Calculator",
+      "body": "Estimate a property's after repair value and explore the numbers behind a potential renovation. The calculator works out a maximum bid using the classic offer rule, then shows gross profit and return on investment based on the purchase price you enter.\n\nYou can estimate ARV in several ways: from the average of recently sold, renovated comparable properties, from a price per square foot applied to the finished living area, or from the as-is value plus the lift you expect the renovation to add. The page also explains how to choose comps, where each method works best, and the costs the simple formula leaves out, such as closing costs, financing and holding costs, agent commissions and taxes."
+    },
+    {
+      "h2": "Financing",
+      "body": "Explore financing options available to real estate investors through Genstone Financial. Programs include DSCR rental loans, fix and flip loans, lines of credit and new construction loans.\n\nThe financing page explains how each type of loan fits a different strategy, and how the renovation scope, the draw schedule and the lender's draw process work together. That last point matters more than many first-time investors expect. If the scope and the lender's draw schedule don't line up, money arrives late and work stalls."
+    },
+    {
+      "h2": "Investor FAQs",
+      "body": "Find answers about project scopes, schedules, draws, permits, change orders, project management, warranties and more. The FAQ covers how Genstone reviews properties before you buy, what's in a scope and estimate, how payment works, who your point of contact is, how unforeseen conditions are handled, and what the one-year workmanship warranty covers."
+    },
+    {
+      "h2": "How to use these tools together",
+      "body": "A practical order for evaluating a deal:\n\n- Run the numbers through the ARV calculator using the asking price and a rough repair budget. If the deal doesn't work on paper with conservative inputs, it's unlikely to work in practice.\n- If it does, request a Pre-Offer Rehab Review. Genstone will estimate repair costs, help refine the ARV, and check whether the numbers support your offer before you commit capital.\n- Talk to Genstone Financial about the loan that fits the strategy, and make sure the draw structure matches how the renovation will be paid.\n- Read the investor FAQs so you know how scopes, schedules, change orders and payments work before the project starts.\n\nThe calculator gives you a fast first screen. The rehab review replaces your rough repair number with one based on the property itself."
+    },
+    {
+      "h2": "Evaluating a property?",
+      "body": "Get a complimentary Pre-Offer Rehab Review to better understand the anticipated renovation needs before you make an offer. Call (312) 429-2637 or use the contact form to send the address and your plans for the property."
+    }
+  ]
+}
