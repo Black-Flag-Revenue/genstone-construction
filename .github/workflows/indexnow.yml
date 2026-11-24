@@ -1,0 +1,22 @@
+name: IndexNow
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Vercel deploy
+        run: sleep 180
+      - name: Submit sitemap URLs to IndexNow (Bing, Yandex, Seznam, Naver)
+        run: |
+          KEY=b7f3c1e94a2d4e5f8c6a0d1e2f3a4b5c
+          HOST=www.genstoneconstruction.com
+          curl -fsSL "https://$HOST/sitemap.xml" | grep -o '<loc>[^<]*</loc>' | sed 's/<\/\?loc>//g' > urls.txt || exit 0
+          echo "$(wc -l < urls.txt) URLs"
+          split -l 9000 urls.txt chunk_
+          for f in chunk_*; do
+            jq -R -s --arg host "$HOST" --arg key "$KEY" '{host:$host,key:$key,keyLocation:("https://"+$host+"/"+$key+".txt"),urlList:(split("\n")|map(select(length>0)))}' "$f" > body.json
+            curl -s -o /dev/null -w "IndexNow: %{http_code}\n" -X POST https://api.indexnow.org/indexnow -H 'Content-Type: application/json; charset=utf-8' --data @body.json
+          done

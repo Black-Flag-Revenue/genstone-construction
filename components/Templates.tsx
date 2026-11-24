@@ -72,7 +72,7 @@ export function ServicePage({ doc, image }: { doc: ServiceDoc; image: string }) 
         <div className="wrap">
           <div className="head-row">
             <h2 className="h2" data-rv="mask" style={{ maxWidth: 700 }}><span className="ln"><span>What&rsquo;s included</span></span></h2>
-            <p data-rv="up">Every {doc.name.toLowerCase()} project runs on the same scoping, documentation and draw process.</p>
+            <p data-rv="up">Every project runs on the same scoping, documentation and draw process, from the first walk-through to the final draw.</p>
           </div>
           <div className="grid-3" data-rv="stag">
             {doc.included.map((x, i) => (
